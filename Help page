@@ -1,3 +1,4 @@
+# Author: Atulya Mandyam
 # The wrapper I made was intended to delete files and directories. 
 # To use it: 
 #     $ ./bashwrapper.sh [NAME OF FILE 1] [NAME OF FILE 2] 
