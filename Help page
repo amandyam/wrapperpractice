@@ -3,4 +3,10 @@
 #     $ ./bashwrapper.sh [NAME OF FILE 1] [NAME OF FILE 2] 
 # If you used it properly, you should get an output something like this: 
 #     the file you deleted was [NAME OF FILE 1]
+# If you did not use it properly, you will get an output like this: 
+#     the file does not exist
+# To troubleshoot: 
+# 1. Try going to the directory of the file you want to delete
+# 2. Try making sure your file name is spelled correctly 
+# 3. Make sure the wrapper file is present in your folder
 # Thank you for looking at my wrapper
