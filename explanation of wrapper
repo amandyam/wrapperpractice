@@ -1,1 +1,6 @@
-
+# The wrapper I made was intended to delete files and directories. 
+# To use it: 
+#     $ ./bashwrapper.sh [NAME OF FILE 1] [NAME OF FILE 2] 
+# If you used it properly, you should get an output something like this: 
+#     the file you deleted was [NAME OF FILE 1]
+# Thank you for looking at my wrapper
