@@ -10,4 +10,6 @@
 # 1. Try going to the directory of the file you want to delete
 # 2. Try making sure your file name is spelled correctly 
 # 3. Make sure the wrapper file is present in your folder
+# Add as an alias to the bashrc file
+# You can use the wrapper now! 
 # Thank you for looking at my wrapper
